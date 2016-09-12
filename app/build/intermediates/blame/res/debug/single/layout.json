@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_item.xml",
+        "source": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\src\\main\\res\\layout\\activity_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_items.xml",
+        "source": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\src\\main\\res\\layout\\fragment_items.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_item.xml",
+        "source": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\src\\main\\res\\layout\\listview_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_items.xml",
+        "source": "D:\\Projects\\AndroidStudio\\ch09_ex4_NewsReader_new\\app\\src\\main\\res\\layout\\activity_items.xml"
+    }
+]

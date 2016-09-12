@@ -1,0 +1,9 @@
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\R$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\ItemActivity$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\R$style$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\R$layout$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\R$id$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\ItemsFragment$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\R$string$override.class
+CHANGED,D:\Projects\AndroidStudio\ch09_ex4_NewsReader_new\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\murach\newsreader\R$menu$override.class
